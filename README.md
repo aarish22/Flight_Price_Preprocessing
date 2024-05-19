@@ -23,5 +23,5 @@ The flight price preprocessing pipeline is designed to handle raw flight price d
 To use the preprocessing scripts, clone this repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/yourusername/flight-price-preprocessing.git
+git clone https://github.com/aarish22/Flight_Price_Preprocessing.git
 
